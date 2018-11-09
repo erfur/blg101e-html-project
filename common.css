@@ -1,0 +1,28 @@
+body {
+    font-family: "Noto Sans", sans-serif;
+    width: 50%;
+    margin: auto;
+    background-color: #e6ecf0;
+}
+
+blockquote{
+	font-style: italic;
+}
+
+h1 {
+    color: #10284d;
+    margin: auto;
+    padding: 20px;
+    width: 70%;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a:visited{
+	color: rgb(0, 33, 83);
+}
+a:link{
+	color: rgb(0, 33, 83);
+}
