@@ -1,8 +1,9 @@
 body {
-    font-family: sans-serif;
-    width: 40%;
+    font-family: "Noto Sans", sans-serif;
+    width: 50%;
     margin: auto;
     /* border: 3px solid green; */
+    background-color: #e6ecf0;
 }
 
 blockquote{
@@ -12,19 +13,25 @@ blockquote{
 h1 {
     color: #10284d;
     margin: auto;
-    width: 40%;
+    padding: 20px;
+    width: 50%;
 }
 
-/* h2 {
-    color: 
-} */
-
 .parkour_intro_img {
-    margin: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: fit-content;
+    float:right;
+	border-style: solid;
+	border-color: rgba(58, 90, 138, 0.603);
+	padding: 5px;
+    margin: 20px;
+    /* font-weight: bold; */
+    font-size: 12px;
+	font-style: italic;
+	text-align: center;	
+    /* color: firebrick; */
+    /* display: block; */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    /* width: fit-content; */
 }
 
 a:visited{
